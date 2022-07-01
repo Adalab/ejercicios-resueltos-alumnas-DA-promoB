@@ -1,4 +1,4 @@
-# Repositorio de soluciones de las alumnas de la promoción A Data Analytics
+# Repositorio de soluciones de las alumnas de la promoción B Data Analytics
 
 Bienvenidas al repo de soluciones de la promoción.
 
@@ -7,7 +7,7 @@ En este repo podéis que dejar vuestras soluciones a los ejercicios del temario,
 ## Entendiendo la estructura del repo
 - Cada ejercicio debe estar una carpeta.
 - El nombre de la carpeta debe ser modulo-X-leccion-X-ejercicio-X-descripcion-nombre-de-la-alumna
-- Ejemplo: modulo-1-leccion-01-ejercicio-01-html-tags-maricarmen
+- Ejemplo: modulo-1-leccion-01-ejercicio-01-variables-bool
 - De esta forma es muy sencillo ver de un vistazo todos los ejercicios.
 
 > NOTA: si alguien no tiene permisos para subir código a este repo se lo pedimos a las profesoras o a alguna compañera que sí tenga permisos.
